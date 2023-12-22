@@ -167,6 +167,7 @@ input[type=button] {
     border: none;
     font-size: 22px;
     color: #FFFFFF;
+    cursor: pointer;
 }
 
 .foot-note {
